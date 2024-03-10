@@ -1,2 +1,2 @@
-# Str-nka
+# Stranka
 stránka
